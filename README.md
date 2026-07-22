@@ -50,12 +50,12 @@ Building research data analysis projects in environmental and coastal science.
 
 ## Featured Projects
 
-- 🌊 Texas Coastal Water Quality Analysis
-- 📈 Texas Weather Trends
-- ❤️ Public Health Data Analysis
-- 🗄 SQL Portfolio
-- 📊 Tableau Dashboard
+- Texas Coastal Water Quality Analysis
+- Texas Weather Trends
+- Public Health Data Analysis
+- SQL Portfolio
+- Tableau Dashboard
 
 ---
 
-📫 Connect with me on LinkedIn.
+Connect with me on LinkedIn.
