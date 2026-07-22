@@ -58,4 +58,4 @@ Building research data analysis projects in environmental and coastal science.
 
 ---
 
-Connect with me on LinkedIn.
+Connect with me on LinkedIn https://www.linkedin.com/in/chenliudata/
